@@ -1,0 +1,1 @@
+能够识别IAR版本以及要转换的IAR.ewp文件，转换为compile_commands.json文件供vscode或者cppcheck使用
